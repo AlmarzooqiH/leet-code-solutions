@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/three-consecutive-odds/description/
+
 #include <stdbool.h>
 
 bool threeConsecutiveOdds(int* arr, int arrSize) {

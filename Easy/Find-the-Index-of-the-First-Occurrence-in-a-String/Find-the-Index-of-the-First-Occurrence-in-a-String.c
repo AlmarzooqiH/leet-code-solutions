@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+
 int strStr(char* haystack, char* needle) {
     int i, j, tmp, hlen, nlen;
 
